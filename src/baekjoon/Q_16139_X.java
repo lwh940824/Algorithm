@@ -34,6 +34,7 @@ public class Q_16139_X { // 인간-컴퓨터 상호작용
             int answer = alphabet[curAlphabet][end] - alphabet[curAlphabet][start];
 
             System.out.println(answer);
+            System.out.println(answer);
         }
     }
 }
